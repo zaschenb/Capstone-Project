@@ -1,0 +1,1 @@
+The datasets used include patient information, and clinical and demographic variables during this study. Binary numbers 1 and 0 were used to predict whether a patient needs ICU admission or not i.e. ICU=1 means the patient requires admission and ICU = 0 means the patient did not require admission. Both the numerical and categorical variables were included in the dataset. 
